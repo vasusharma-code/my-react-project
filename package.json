@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "vasu",
-=======
   "name": "portfolio-vasu",
->>>>>>> dfcee8ecdcf07fd96fa87d099d862117703815b2
   "version": "0.1.0",
   "private": true,
   "dependencies": {
