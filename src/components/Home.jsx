@@ -1,9 +1,11 @@
 import React from 'react';
 import { useState, useEffect, useRef } from 'react';
-import { name } from '../constants';
+import { name } from '../assets/constants';
 import { motion } from "framer-motion";
 import Background from './Background';
 import Footer from './Footer';
+
+
 
 const Home = () => {
 
