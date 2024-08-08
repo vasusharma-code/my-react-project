@@ -13,7 +13,7 @@ const Footer = () => {
 				<p className='text-white text-center w-full sm:w-auto font-light'>© {year} Vasu. All rights reserved.</p>
 				<div className='text-white flex justify-around sm:w-[250px] w-full'>
 					
-					<a href="mailto:goudnithin77@gmail.com" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
+					<a href="mailto:vasu.sharma1768934@gmail.com" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<FiMail className='text-xl' />
 					</a>
 					<a href="#" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
